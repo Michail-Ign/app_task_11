@@ -7,7 +7,7 @@ import (
 
 	_ "modernc.org/sqlite"
 )
-
+ 
 const (
 	ParcelStatusRegistered = "registered"
 	ParcelStatusSent       = "sent"
